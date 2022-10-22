@@ -1,0 +1,2 @@
+# continuesprimegenerator
+yeildedprime
